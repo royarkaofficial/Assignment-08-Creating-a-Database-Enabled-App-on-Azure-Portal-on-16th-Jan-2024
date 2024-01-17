@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppPlayers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52999dfdc2d5fe5274603478a99c5df54b36cece")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppPlayers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppPlayers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
